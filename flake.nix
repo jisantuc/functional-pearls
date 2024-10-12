@@ -16,7 +16,7 @@
             ps.text
           ]);
           devDependencies = with haskellPackages; [
-            cabal-fmt
+            cabal-gild
             cabal-install
             haskell-language-server
             hlint
